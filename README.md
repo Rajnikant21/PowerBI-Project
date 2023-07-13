@@ -4,4 +4,8 @@ With data stored in Multiple sheets, and of really Big size, it is definitely im
 Get Data Here
 https://1drv.ms/f/s!AocaXzFxNapi-kKDXlTtPuneLVme?e=nhOkoA
 # Instacrt Sales Analysis
+**Version 2**
+![image](https://github.com/Rajnikant21/PowerBI-Project/blob/e415eaa5121d9c57623e697f0d48e419f581c3e6/image.png)
+
+**Version 1**
 ![image](https://github.com/Rajnikant21/PowerBI-Project/blob/9e9c87ccd287dca51477f1a1408f304d5f8f79fa/Screenshot%202023-07-08%20201646.png)
